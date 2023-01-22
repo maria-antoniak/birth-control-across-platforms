@@ -15,11 +15,11 @@ _All examples are paraphrased for privacy._
 
 ### Reddit: r/BirthControl
 
-**Title:** [Which Method?] Should I switch to the copper IUD?  
-**Post:** I'm having a hard time finding the right birth control for me, and it's really frustrating. I went on the shot when I was 16 but I gained weight and felt awful. I'm not sure I would be able to take the \textcolor{my-dark-pink}{pill} consistently, so I'm thinking about the copper IUD to avoid the side effects from the hormones. But I read some scary stories on here about the insertion and pain. I'd love to hear your advice and also your experiences if you've ever used the copper IUD! 
+**Title:** [Which Method?] Should I switch to the copper IUD?   
+**Post:** I'm having a hard time finding the right birth control for me, and it's really frustrating. I went on the shot when I was 16 but I gained weight and felt awful. I'm not sure I would be able to take the \textcolor{my-dark-pink}{pill} consistently, so I'm thinking about the copper IUD to avoid the side effects from the hormones. But I read some scary stories on here about the insertion and pain. I'd love to hear your advice and also your experiences if you've ever used the copper IUD!  
 
-**Title:** [Mistake or Risk?] Plan B}?? Anxious and need help 
-**Post:** I had unprotected sex with my partner on Wednesday. I'm on the pill and really good about taking it on time (just 10 minutes late sometimes). My period was supposed to start yesterday but now it's 24 hours late. I know I'm probably overthinking this but do you think I could be pregnant? Should I take Plan B?
+**Title:** [Mistake or Risk?] Plan B}?? Anxious and need help   
+**Post:** I had unprotected sex with my partner on Wednesday. I'm on the pill and really good about taking it on time (just 10 minutes late sometimes). My period was supposed to start yesterday but now it's 24 hours late. I know I'm probably overthinking this but do you think I could be pregnant? Should I take Plan B?  
 
 ### WebMD
 
