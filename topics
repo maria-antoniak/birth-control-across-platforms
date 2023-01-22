@@ -1,0 +1,106 @@
+Source,Topic Index,Top Words,Assigned Label
+reddit,0,"pregnancy, test, pregnant, negative, NUM, period, tests, symptoms, sex, take",pregnancy test accuracy and likelihoods
+reddit,1,"pill, NUM, sex, day, took, last, days, period, take, week","pill tracking, timing, and adherence"
+reddit,2,"condoms, sex, use, pregnant, condom, pregnancy, using, effective, boyfriend, method",condom use and risk analysis
+reddit,3,"www, https, http, antibiotics, NUM, control, birth, use, pill, effectiveness",moderator PSA about antibiotics
+reddit,4,"infection, yeast, infections, iud, antibiotics, uti, symptoms, also, issues, discharge",causes and side effects of vaginal infections
+reddit,5,"acne, hair, skin, NUM, loss, face, back, months, cystic, clear",acnes and skin changes
+reddit,6,"iud, mirena, copper, hormonal, hormones, paragard, periods, want, get, would",IUD option comparison
+reddit,7,"pills, NUM, week, pill, pack, placebo, taking, take, period, start","pill tracking, calculations, period management"
+reddit,8,"like, NUM, day, feel, nausea, night, feeling, stomach, felt, got","nausea, cravings, nutrition"
+reddit,9,"know, like, really, anyone, get, would, thanks, implant, getting, want","first time posts and ""stupid questions"""
+reddit,10,"bleeding, nexplanon, stop, irregular, months, implant, bleed, periods, pill, take",irregular bleeding
+reddit,11,"insurance, NUM, planned, parenthood, get, health, would, pay, covered, parents","costs, insurance, access"
+reddit,12,"weight, NUM, gain, gained, pounds, lost, nexplanon, lose, eating, diet",weight changes and causes
+reddit,13,"blood, bleeding, period, spotting, discharge, brown, normal, like, light, day",interpreting unexpected bleeding
+reddit,14,"pain, cramps, like, anyone, else, cysts, experienced, back, also, mirena",experiences and normality of pain
+reddit,15,"iud, strings, feel, cervix, check, place, got, uterus, felt, checked",feeling and checking IUD strings
+reddit,16,"side, effects, effect, nexplanon, implant, experience, mood, pill, months, bad",sharing and seeking side effect experiences
+reddit,17,"feel, anxiety, like, mood, depression, time, swings, months, life, felt",mood and mental health changes
+reddit,18,"control, birth, pill, pills, taking, would, hormonal, take, want, form",seeking information about method options
+reddit,19,"cup, use, menstrual, iud, using, tampons, pads, size, boobs, used",menstrual product risks and usage
+reddit,20,"pill, NUM, take, time, taking, day, every, hours, pills, mini",pill timing and calculations
+reddit,21,"pill, estrogen, dose, pills, progestin, low, different, hormones, hormone, progesterone",hormone dosages and comparison
+reddit,22,"doctor, said, told, NUM, appointment, get, went, would, back, didn",appointment descriptions
+reddit,23,"NUM, pill, taking, tri, switched, generic, pills, years, sprintec, yaz",switching pills
+reddit,24,"pill, migraines, blood, risk, estrogen, clots, aura, mini, due, migraine",risk analysis for serious side effects 
+reddit,25,"experience, stories, people, experiences, read, horror, many, xNUMb, post, know",reading other's experiences 
+reddit,26,"pain, insertion, NUM, iud, cramps, felt, like, took, got, cramping",IUD insertion experience
+reddit,27,"NUM, period, got, days, since, month, started, week, weeks, months",menstrual cycle changes
+reddit,28,"arm, implant, nexplanon, feel, insertion, got, like, inserted, little, skin",implant insertion experience
+reddit,29,"NUM, nexplanon, implant, years, got, removed, months, get, year, one",implant removal and timing
+reddit,30,"NUM, effective, women, use, implant, nexplanon, years, rate, year, method",method efficacy and research
+reddit,31,"sex, drive, libido, want, feel, like, back, even, boyfriend, partner",changes in libido 
+reddit,32,"ovulation, cycle, ovulate, fertility, days, ovulating, cycles, cervical, app, natural",explanations of how birth control works
+reddit,33,"would, like, get, doctor, think, really, body, good, know, one",reactions and advice
+reddit,34,"NUM, period, periods, months, days, first, spotting, cramps, month, bleeding",cycle changes after starting method
+twitter,0,"arm, nexplanon, implant, implanon, got, like, rod, https, goes, skin",implant insertion and removal 
+twitter,1,"iud, pain, got, insertion, uterus, doctor, told, https, one, put",IUD insertion experience
+twitter,2,"iud, https, thanks, baby, day, today, reminded, good, shower, buy",IUD jokes and random
+twitter,3,"https, baby, iud, born, fingers, tiny, doctor, photo, confused, found",viral folk stories
+twitter,4,"pill, contraceptive, male, http, https, men, scientists, closer, could, step",news and research about male pill
+twitter,5,"nexplanon, implanon, implant, ever, get, best, arm, depo, iud, shot",method opinions
+twitter,6,"https, iud, http, women, iuds, contraception, long, birthcontrol, contraceptive, implant",contraceptive news stories (USA)
+twitter,7,"control, birth, pill, pregnancy, best, thing, put, mouth, second, woman",viral jokes about pill
+twitter,8,"iud, https, use, abortion, anti, must, healthcare, services, read, catholic",political IUD stories
+twitter,9,"implant, contraceptive, http, NUM, https, school, girl, without, year, girls",implant news about unexpected experiences
+twitter,10,"iud, NUM, https, insurance, free, planned, get, health, parenthood, cost",IUD access and news
+twitter,11,"birth, control, pill, take, implant, like, taking, time, lol, took",NSFW jokes about pill
+twitter,12,"birth, control, pill, http, male, bit, new, men, effective, women",news about male pill
+twitter,13,"https, iud, god, thank, http, bless, house, life, music, team",random
+twitter,14,"weight, gain, nexplanon, gained, NUM, implanon, lose, lost, loss, made",weight changes  
+twitter,15,"http, oral, contraceptive, contraception, fda, new, NUM, bit, asked, pill",news about development and approval of new methods
+twitter,16,"iud, like, https, looks, ied, sex, make, say, feel, commercial",NSFW jokes about iud
+twitter,17,"contraceptive, http, risk, oral, pill, cancer, https, women, use, study",research about serious side effects and cancer
+twitter,18,"pill, contraceptive, women, NUM, https, oral, first, NUMs, available, contraception",pill trivia
+twitter,19,"birth, control, implant, https, http, fda, essure, safety, review, warning",news about safety and recalls
+twitter,20,"control, pill, birth, men, male, take, would, makes, http, sense",rationale for male pill
+twitter,21,"iud, getting, get, nexplanon, today, appointment, implant, removed, https, implanon",appointment and procedure anticipation
+twitter,22,"birth, control, pill, http, NUM, https, dies, djerassi, father, carl",news about pill
+twitter,23,"https, iud, know, get, tubes, need, pregnant, tied, word, NUM",informational IUD articles
+twitter,24,"iud, nexplanon, period, periods, get, got, cramps, like, bad, made",experiences of cramps and side effects
+twitter,25,"side, effects, pill, https, effect, contraceptive, women, implanon, many, blood",news about serious side effects
+twitter,26,"NUM, years, effective, https, iud, rate, implanon, pregnancy, use, free",statistics about different methods
+twitter,27,"iud, get, implanon, nexplanon, got, lol, like, shit, pregnant, want",implant opinions and experiences
+twitter,28,"iud, https, copper, device, intrauterine, hormone, NUM, hormonal, mirena, uterus",IUD research and information
+twitter,29,"implant, contraceptive, https, http, essure, bayer, remote, control, women, via",news about side effects and population level complications
+twitter,30,"pill, iud, women, abortion, contraceptive, condoms, contraception, use, pregnancy, sex",opinions and arguments about birth control
+twitter,31,"iud, nexplanon, one, like, know, people, would, good, get, really",seeking and discussing others experiences
+twitter,32,"NUM, years, nexplanon, got, period, months, year, implanon, implant, get",menstrual changes over time with implant
+twitter,33,"contraceptive, pill, oral, https, pills, contraception, emergency, taking, NUM, http",other hormonal medications and uses
+twitter,34,"http, iud, implanon, question, bit, post, anyone, implant, contraceptive, please",seeking information and experiences
+webmd,0,"reviews, read, reading, experience, people, good, try, say, negative, many",reflections on reading others reviews
+webmd,1,"medication, pregnancy, however, preventing, effective, medications, also, caused, experienced, prevent",treating or causing other medical issues
+webmd,2,"blood, pressure, high, yeast, infection, clots, infections, estrogen, hospital, heart",risks of serious side effects
+webmd,3,"implant, arm, nexplanon, shot, depo, got, implanon, removed, hurt, insertion",implant insertion and removal experiences
+webmd,4,"sex, drive, low, husband, zero, vaginal, acne, libido, decreased, lack",changes in libido
+webmd,5,"get, take, really, love, dont, little, like, ive, everyday, thing",positive experiences
+webmd,6,"acne, face, skin, never, also, cystic, horrible, clear, even, break",skin and acne changes
+webmd,7,"periods, would, recommend, years, use, product, long, irregular, easy, implanon","reviews, ratings, recommendations"
+webmd,8,"anxiety, nexplanon, depression, implant, began, removed, attacks, severe, panic, symptoms",mood and mental health changes
+webmd,9,"pain, pains, back, stomach, legs, lower, severe, chest, left, terrible",pain and physical discomfort
+webmd,10,"mood, swings, weight, depression, gain, horrible, headaches, severe, terrible, acne","negative experiences, mood and weight changes"
+webmd,11,"num, years, year, almost, old, one, problems, life, another, half",age and length of use
+webmd,12,"switched, generic, pharmacy, years, ortho, brand, yaz, taking, new, kariva",switching pill prescriptions and brands
+webmd,13,"pain, mirena, removed, iud, painful, cysts, found, surgery, uterus, ovarian","IUD experiences (complications, pain, procedures)"
+webmd,14,"heavy, tampons, wear, needed, pads, pad, tampon, bleed, liner, panty",bleeding changes (heavy/light)
+webmd,15,"pill, taking, noticed, acne, breast, headaches, first, month, breasts, since",first impressions of side effects
+webmd,16,"cannot, low, dose, gyn, device, case, friends, benefits, family, local",secondhand advice and experiences
+webmd,17,"pain, insertion, cramping, iud, inserted, cramps, painful, num, paragard, day",IUD insertion and pain experiences
+webmd,18,"birth, control, months, recommend, also, form, ever, different, taking, would",opinions and recommendations of methods
+webmd,19,"like, feel, time, get, never, feeling, ever, made, much, back",negative emotions and experiences
+webmd,20,"num, months, period, days, periods, weeks, every, years, bleeding, month",side effect duration
+webmd,21,"pregnant, haven, time, getting, pregnancy, yet, gotten, long, using, worry",whether or not experienced pregnancy
+webmd,22,"doctor, would, never, said, get, got, bad, could, really, body","information gathering, conversations with doctor"
+webmd,23,"back, going, work, still, even, didn, started, know, thing, well",impacts on personal life
+webmd,24,"side, effects, effect, headaches, drug, nausea, worth, horrible, affects, negative",general side effects
+webmd,25,"num, bleeding, since, months, implanon, removed, got, getting, stop, weeks",menstrual changes over time
+webmd,26,"weight, num, gained, gain, pounds, lbs, lost, also, acne, eat",weight changes and causes
+webmd,27,"worse, cramps, bleeding, bad, super, random, though, times, point, blood","cramps, bleeding changes"
+webmd,28,"pill, taking, pills, started, take, stopped, medication, night, took, horrible","starting, stopping, switching, scheduling pills"
+webmd,29,"pain, strings, went, find, told, place, cut, came, able, check",IUD strings and placement
+webmd,30,"mirena, num, put, years, inserted, child, iud, husband, since, removed","insertion timing, postpartum experiences"
+webmd,31,"insurance, loestrin, pay, cost, cover, doesn, minastrin, covered, prescription, drug","costs, insurance, access"
+webmd,32,"hair, loss, started, falling, facial, began, growing, fall, lost, dry",hair loss
+webmd,33,"day, take, every, one, would, well, even, remember, time, full",daily timing of pill
+webmd,34,"period, month, first, get, two, spotting, week, one, months, time",spotting and menstrual changes
