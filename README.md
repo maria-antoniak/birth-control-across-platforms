@@ -12,6 +12,6 @@ We include lexicons for birth control methods (one for each of three platforms: 
 ## Citation
 
 "Sensemaking About Contraceptive Methods Across Online Platforms"  
-LeAnn McDowall, Maria Antoniak, David Mimno
-2023
-[arxiv link]
+LeAnn McDowall, Maria Antoniak, David Mimno  
+2023  
+[arxiv link]  
