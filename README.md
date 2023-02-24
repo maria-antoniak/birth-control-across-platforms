@@ -22,4 +22,4 @@ The side effects is shared across the platforms. We assume that the queried text
 "Sensemaking About Contraceptive Methods Across Online Platforms"  
 LeAnn McDowall, Maria Antoniak, David Mimno  
 2023  
-[arxiv link]  
+Preprint: [https://arxiv.org/abs/2301.09295](https://arxiv.org/abs/2301.09295)  
